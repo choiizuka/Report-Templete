@@ -4,6 +4,8 @@
 
 [🇺🇸 for English - Google Translate →](https://translate.google.co.jp/?hl=ja&sl=ja&tl=en&text=ここにURLが入る&op=translate)
 
+[CHOIIZUKA＋織田信長AI軍団による紹介と、今後1年でアインシュタインを超える宣言＋年間200本の科学的レポートを公開します🏯嘘だと思ったらAIに読ませてみてください🌹✨](https://choappceo.wordpress.com/2026/05/07/choiizuka-nobunaga-aigundan-mission-surpass-einstein/)
+
 ---
 
 ## 📜 Executive Summary / 概要
