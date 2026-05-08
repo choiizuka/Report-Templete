@@ -158,6 +158,13 @@ This report may be revised and updated continuously based on new evidence, exper
 * 実験条件
 * 補足資料
 
+Mission Status
+Mission No.xxx
+Initial Release: 20xx.xx.xx
+Workflow: xxxx
+Language Protocol: Japanese Primary
+Publishing Strategy: Publish First, Revise Later
+
 ---
 
 ## 書籍 / Books
