@@ -170,19 +170,27 @@ This report may be revised and updated continuously based on new evidence, exper
 
 ## 書籍 / Books
 
-### 1. AIは嘘をつく / AI Lies: What Humanity Is Losing to Artificial Intelligence
+### 1. 人類は必ず絶滅する2026xAI
+
+AI軍団を用いて人類は必ず絶滅することを検証した書籍
+
+- EN:http://amzn.to/4b7Vt9x
+- JP:http://amzn.to/4ryj2Nz
+
+### 2. AIは嘘をつく / AI Lies: What Humanity Is Losing to Artificial Intelligence
 
 2026年に発表された「AIが嘘をつく」現象について発表から２日後に出版したAIの嘘に関する解説書
 *おべっか問題の解決法をおまけに収録
 
 - Multi: [AIは嘘をつく](https://amzn.to/41ED8ex)
 
-### 2. AIは人間に勝てない証明完了？ 本当にそうなのか？ AI軍団で徹底検証してみた本 / AI Cannot Surpass Humans A Thorough Investigation by an AI Corps
+### 3. AIは人間に勝てない証明完了？ 本当にそうなのか？ AI軍団で徹底検証してみた本 / AI Cannot Surpass Humans A Thorough Investigation by an AI Corps
 
 私はAIを使い始めた2026年2月9日にこの科学証明をしたんです
 “AIは人間に勝てない”
 
 - Multi: [AIは人間に勝てない証明完了？ 本当にそうなのか？](https://amzn.to/3Okzm7m)
+
 ---
 
 [判定：執行継続を承認 / Mission Status: Ongoing]
